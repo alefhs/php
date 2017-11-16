@@ -1,7 +1,6 @@
 <?php
 
-echo "Olá mundo! 5454545";
-
-echo "Olá mundo 625256";
+echo "Olá mundo! Novo Mundo 123";
+echo "Hcode curso GIT";
 
 ?>
