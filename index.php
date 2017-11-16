@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello Word, novo arquivo php no projeto   -   Teste";
+echo "Olá mundo! Novo Mundo";
 
 
 ?>
